@@ -28,17 +28,12 @@ jobs:
         with:
           ruby-version: '3.1'
           bundler-cache: true
-          working-directory: ./docs_novuus
       
       - name: Install dependencies
-        run: |
-          cd docs_novuus
-          bundle install
+        run: bundle install
       
       - name: Build with Jekyll
-        run: |
-          cd docs_novuus
-          bundle exec jekyll build --baseurl "${{ github.event.repository.name }}"
+        run: bundle exec jekyll build --baseurl "${{ github.event.repository.name }}"
         env:
           JEKYLL_ENV: production
       
@@ -48,7 +43,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./docs_novuus/_site
+          path: ./_site
 
   deploy:
     environment:
