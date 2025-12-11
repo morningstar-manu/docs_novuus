@@ -1,0 +1,44 @@
+# Configuration GitHub Pages / Jekyll
+title: Documentation Technologies Médicales Novuus
+description: Documentation complète des technologies médicales développées par Novuus
+baseurl: "" # Laissez vide si le repo est à la racine, sinon "/nom-du-repo"
+url: "" # Votre URL GitHub Pages (ex: "https://votre-username.github.io")
+
+# Paramètres
+markdown: kramdown
+highlighter: rouge
+# Pas de thème - nous utilisons nos propres layouts
+
+# Plugins (optionnels - GitHub Pages les supporte nativement)
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /posts/:name/
+
+# Paramètres personnalisés
+author:
+  name: Novuus
+  email: contact@novuus.com
+
+# Support MathJax pour les équations mathématiques
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
+    preview_as_code: true
+
+# Exclure des fichiers
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - venv
+  - .git
+  - .gitignore
+
