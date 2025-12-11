@@ -18,136 +18,150 @@ NOVUUS propose une gamme complète de technologies médicales connectées pour f
 
 ### Technologies de Diagnostic Cardiovasculaire
 
-**Maladies cardiovasculaires** - Système de diagnostic cardiovasculaire connecté
+**[Maladies cardiovasculaires - ECG et Tension Artérielle 24h]({{ '/posts/2024-01-20-maladies-cardiovasculaires.html' | relative_url }})**
 
 **Résumé** : Solution complète permettant d'enregistrer un ECG, suivre la tension artérielle sur 24h, et obtenir un avis cardiologique rapidement. Technologie simple et rapide qui transforme le suivi cardiovasculaire en médecine générale.
 
 **Points Clés** :
 - Enregistrement ECG en quelques gestes
 - Suivi tensionnel sur 24 heures
-- Avis cardiologique rapide
+- Avis cardiologique rapide (18h en moyenne)
 - Solution intégrée pour le cabinet médical
+- Réduction de 96% des délais d'attente
 
 **Statut** : Commercialisée  
+**Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-maladies-cardiovasculaires.html' | relative_url }})  
 **Site web** : [novuus.eu - Maladies cardiovasculaires](https://novuus.eu/)
 
 ---
 
 ### Technologies de Diagnostic Respiratoire
 
-**Maladies respiratoires** - Spiromètre connecté
+**[Maladies respiratoires - Spiromètre Connecté]({{ '/posts/2024-01-20-maladies-respiratoires.html' | relative_url }})**
 
 **Résumé** : Spiromètre connecté permettant de dépister l'asthme ou la BPCO en quelques minutes. Solution rapide et fiable pour le diagnostic précoce des pathologies respiratoires.
 
 **Points Clés** :
-- Dépistage rapide (quelques minutes)
+- Dépistage rapide (5-10 minutes)
 - Détection de l'asthme et de la BPCO
 - Diagnostic précoce pour une meilleure prise en charge
 - Interface simple et intuitive
+- Réduction de 85% des délais de diagnostic
 
 **Statut** : Commercialisée  
+**Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-maladies-respiratoires.html' | relative_url }})  
 **Site web** : [novuus.eu - Maladies respiratoires](https://novuus.eu/)
 
 ---
 
 ### Technologies de Diagnostic du Sommeil
 
-**Apnée du sommeil** - Polygraphie connectée
+**[Apnée du sommeil - Polygraphie Connectée]({{ '/posts/2024-01-20-apnee-sommeil.html' | relative_url }})**
 
 **Résumé** : Système de polygraphie connectée permettant de diagnostiquer l'apnée du sommeil en une seule nuit. Solution pratique pour le diagnostic à domicile ou en cabinet.
 
 **Points Clés** :
-- Diagnostic en une seule nuit
-- Polygraphie connectée
+- Diagnostic en une seule nuit au domicile
+- Polygraphie connectée avec analyse automatique
+- Excellente concordance avec polysomnographie (sensibilité 92%, spécificité 87%)
+- Réduction de 95% des délais de diagnostic (de 8 mois à 5 jours)
 - Amélioration de la qualité de vie des patients
-- Solution pratique et accessible
 
 **Statut** : Commercialisée  
+**Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-apnee-sommeil.html' | relative_url }})  
 **Site web** : [novuus.eu - Apnée du sommeil](https://novuus.eu/)
 
 ---
 
 ### Technologies d'Imagerie Médicale
 
-**Échographie** - Sonde d'échographie connectée
+**[Échographie - Sonde Connectée Portable]({{ '/posts/2024-01-20-echographie.html' | relative_url }})**
 
 **Résumé** : Sonde d'échographie connectée permettant d'obtenir des images échographiques en quelques secondes. Véritable échographe de poche sans délais ni détours, complétant l'auscultation traditionnelle.
 
 **Points Clés** :
-- Images échographiques en quelques secondes
-- Sonde connectée portable
-- Complément à l'auscultation
-- Solution sans délais
+- Images échographiques en temps réel
+- Sonde connectée portable et légère
+- Qualité d'image de bonne à excellente (score 8.2/10)
+- Diagnostic immédiat directement en consultation
+- Excellente concordance diagnostique (sensibilité 88%, spécificité 85%)
 
 **Statut** : Commercialisée  
+**Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-echographie.html' | relative_url }})  
 **Site web** : [novuus.eu - Échographie](https://novuus.eu/)
 
 ---
 
 ### Technologies de Diagnostic Dermatologique
 
-**Dermatoscopie** - Système de dermatoscopie avancé
+**[Dermatoscopie - Système d'Examen Avancé]({{ '/posts/2024-01-20-dermatoscopie.html' | relative_url }})**
 
 **Résumé** : Système de dermatoscopie permettant d'examiner chaque détail des lésions cutanées à la loupe. Technologie qui rend l'examen dermatologique infaillible et précis.
 
 **Points Clés** :
-- Examen détaillé des lésions cutanées
-- Détection précoce des mélanomes
-- Précision accrue du diagnostic
-- Technologie fiable et précise
+- Examen détaillé des lésions cutanées avec grossissement ×10 à ×70
+- Sensibilité élevée pour détection de mélanome (94% vs 70% à l'examen clinique)
+- Réduction de 42% des biopsies inutiles
+- Augmentation de 28% de la détection précoce
+- Documentation systématique pour suivi longitudinal
 
 **Statut** : Commercialisée  
+**Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-dermatoscopie.html' | relative_url }})  
 **Site web** : [novuus.eu - Dermatoscopie](https://novuus.eu/)
 
 ---
 
-### Technologies de Cryothérapie
-
-**Cryothérapie** - Système de traitement par le froid
+**[Cryothérapie - Traitement par Application de Froid]({{ '/posts/2024-01-20-cryotherapie.html' | relative_url }})**
 
 **Résumé** : Solution de cryothérapie pour le traitement de diverses lésions cutanées. Technologie efficace pour les traitements locaux par application de froid.
 
 **Points Clés** :
-- Traitement par application de froid
-- Applications diverses en dermatologie
-- Solution efficace et contrôlée
-- Facile à utiliser en cabinet
+- Traitement par application de froid contrôlée
+- Taux de guérison élevé (87% après 1-2 séances)
+- Traitement immédiat en consultation
+- Réduction de 68% des orientations vers dermatologue
+- Excellente satisfaction des patients (92%)
 
 **Statut** : Commercialisée  
+**Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-cryotherapie.html' | relative_url }})  
 **Site web** : [novuus.eu - Cryothérapie](https://novuus.eu/)
 
 ---
 
 ### Technologies de Diagnostic Auditif
 
-**Acuité auditive** - Audiomètre NOVUUS
+**[Acuité auditive - Audiomètre NOVUUS]({{ '/posts/2024-01-20-acuite-auditive.html' | relative_url }})**
 
 **Résumé** : Audiomètre NOVUUS permettant de détecter les troubles auditifs en quelques minutes. Solution rapide et fiable pour le dépistage auditif en médecine générale.
 
 **Points Clés** :
-- Détection des troubles auditifs en quelques minutes
-- Test d'acuité auditive fiable
-- Dépistage précoce
-- Solution simple et efficace
+- Test complet en 7 minutes
+- Excellente précision conforme aux normes ISO (98% de concordance)
+- Réduction de 90% des délais de diagnostic (de 90 jours à 5 jours)
+- Dépistage de 22% de troubles auditifs supplémentaires
+- Excellente concordance diagnostique (sensibilité 93%, spécificité 89%)
 
 **Statut** : Commercialisée  
+**Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-acuite-auditive.html' | relative_url }})  
 **Site web** : [novuus.eu - Acuité auditive](https://novuus.eu/)
 
 ---
 
 ### Technologies de Diagnostic Visuel
 
-**Acuité visuelle** - Système de dépistage de la vision
+**[Acuité visuelle - Système de Dépistage]({{ '/posts/2024-01-20-acuite-visuelle.html' | relative_url }})**
 
-**Résumé** : Technologies de dépistage de la vision permettant de tester l'acuité visuelle de façon fiable, rapide et précise. Solution sans approximation pour le diagnostic visuel.
+**Résumé** : Système de dépistage de la vision permettant de tester l'acuité visuelle de façon fiable, rapide et précise. Solution professionnelle sans approximation pour le diagnostic visuel.
 
 **Points Clés** :
-- Test d'acuité visuelle fiable et rapide
-- Précision sans approximation
-- Dépistage efficace
-- Solution professionnelle
+- Test complet en 4 minutes
+- Excellente précision conforme aux normes ISO (97% de concordance)
+- Réduction de 95% des délais de diagnostic (de 120 jours à 4 jours)
+- Dépistage de 19% de troubles visuels supplémentaires
+- Excellente concordance diagnostique (sensibilité 91%, spécificité 88%)
 
 **Statut** : Commercialisée  
+**Documentation complète** : [Voir la documentation détaillée]({{ '/posts/2024-01-20-acuite-visuelle.html' | relative_url }})  
 **Site web** : [novuus.eu - Acuité visuelle](https://novuus.eu/)
 
 ---
