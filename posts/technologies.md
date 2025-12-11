@@ -322,4 +322,3 @@ NOVUUS Ingénierie médicale est une société spécialisée dans le développem
 ---
 
 *Cette page est maintenue par l'équipe Novuus. Pour toute question concernant nos technologies, veuillez nous contacter.*
-

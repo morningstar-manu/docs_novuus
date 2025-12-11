@@ -564,4 +564,3 @@ Cette documentation a été préparée par l'équipe Novuus en collaboration ave
 
 **Version** : 1.0  
 **Dernière mise à jour** : 20 janvier 2024
-
