@@ -43,7 +43,7 @@ Exemple de documentation suivant la structure standardisée pour illustrer le fo
 ## Navigation
 
 - [Page d'accueil]({{ '/' | relative_url }}) - Retour à l'accueil
-- [Template de Documentation]({{ '/_template-technologie-medicale.html' | relative_url }}) - Pour créer de nouvelles pages
+- [Template de Documentation]({{ '/template/_template-technologie-medicale.html' | relative_url }}) - Pour créer de nouvelles pages
 - [Guide d'Utilisation]({{ '/posts/guide-utilisation.html' | relative_url }}) - Instructions détaillées
 
 ---
